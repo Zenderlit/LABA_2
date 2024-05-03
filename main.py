@@ -2,7 +2,7 @@ import telebot
 from telebot import types
 
 # Токен вашего бота
-token = '6177157741:AAEPyD9E2nvThJqJX1h-XlcFD7eaQpPe6yA'
+token = '6683068874:AAGkY0bCsVSoGmYS-uanUbjFchkUbpi4uBM'
 
 # Создаем объект чат-бота
 bot = telebot.TeleBot(token)
